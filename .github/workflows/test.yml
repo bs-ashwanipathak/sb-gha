@@ -18,4 +18,4 @@ jobs:
       - name: Run tests
         run: npm test
         env:
-          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+          PERCY_TOKEN: 213fd7baaa45add195c29682c46346eaf8f283bfa7cd82cb4131ca3c81469a3e
